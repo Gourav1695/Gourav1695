@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Developement Techniques**
 
-- 📫 How to reach me **Though LinkedIn**
+- 📫 How to reach me **Through LinkedIn**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
