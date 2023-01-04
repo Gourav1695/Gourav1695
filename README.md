@@ -41,7 +41,9 @@
   <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Gourav1695&theme=nord" />
 </a>
 --->
-
+<a>
+  <img height="295em" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gourav1695&theme=nord" />
+</a>
 </p>
 
 
