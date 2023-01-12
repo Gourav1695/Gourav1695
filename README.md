@@ -28,15 +28,15 @@
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
-<a>
+<!---<a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gourav1695&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-</a>
+</a>--->
 <a>
    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav1695&theme=tokyonight"/>
 </a>
-<a>
+<!---<a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gourav1695&show_icons=true&locale=en&theme=tokyonight"/>
-</a>
+</a> --->
 <!--- <a>
   <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Gourav1695&theme=nord" />
 </a>
