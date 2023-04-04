@@ -46,7 +46,7 @@
 </a>
 </p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/onlyerror?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85)
 
 
 <!---
