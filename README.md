@@ -45,7 +45,7 @@
   <img height="295em" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gourav1695&theme=nord" />
 </a>
 <a>
-   <img height="500em" width="150%" src="https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85" />
+   <img height="300em" width="150%" src="https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85" />
 <!--   [![Leetcode Stats](https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85) -->
    </a>
 </p>
