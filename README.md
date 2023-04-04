@@ -44,11 +44,15 @@
 <a>
   <img height="295em" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gourav1695&theme=nord" />
 </a>
+<a>
+   <img height="500em" width="150%" src="https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85" />
+<!--   [![Leetcode Stats](https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85) -->
+   </a>
 </p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85)
 
-
+ -->
 <!---
 Gourav1695/Gourav1695 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
