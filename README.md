@@ -31,9 +31,9 @@
 <!---<a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gourav1695&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 </a>--->
-<a>
+<!-- <a>
    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gourav1695&theme=tokyonight"/>
-</a>
+</a> -->
 <!---<a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gourav1695&show_icons=true&locale=en&theme=tokyonight"/>
 </a> --->
@@ -41,9 +41,9 @@
   <img height="295em" width="100%" src="https://activity-graph.herokuapp.com/graph?username=Gourav1695&theme=nord" />
 </a>
 --->
-<a>
+<!-- <a>
   <img height="295em" width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Gourav1695&theme=nord" />
-</a>
+</a> -->
 <a>
    <img height="300em" width="150%" src="https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85" />
 <!--   [![Leetcode Stats](https://leetcard.jacoblin.cool/gouravkr85?theme=nord&ext=contest&font=Noto%20Sans)](https://leetcode.com/gouravkr85) -->
